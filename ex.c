@@ -3,5 +3,6 @@
 int main(void)
 {
     printf("hello im c");
-    return 0;;
+    printf("hi im user40")
+    return 0;
 }
